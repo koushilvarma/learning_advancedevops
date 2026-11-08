@@ -1,0 +1,5 @@
+NAME="Koushil"
+echo "Hello, $NAME!"
+echo "today is $(date)"
+echo "Current working directory is $(pwd)"
+echo "Current user is $(whoami)"
